@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Akhil Semwal
 
-**BCA Student | Full-Stack Developer | Numerical Computing Enthusiast**
-
 Welcome to my GitHub profile! I'm a passionate computer science student with a strong foundation in software development, numerical methods, and database systems. I love building practical applications that solve real-world problems.
 
 ## 🚀 Featured Projects
