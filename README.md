@@ -46,8 +46,8 @@ Welcome to my GitHub profile! I'm a passionate computer science student with a s
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SemwalAkhil&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemwalAkhil&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
 
