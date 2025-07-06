@@ -1,42 +1,66 @@
-# 👋 Hello, I'm Akhil Semwal (Seka)
+# Hi there! 👋 I'm Akhil Semwal
 
-I'm a passionate developer exploring the realms of programming with a focus on writing efficient and minimal code. My journey involves experimenting with various technologies and honing my skills in data structures and algorithms.
+**BCA Student | Full-Stack Developer | Numerical Computing Enthusiast**
 
----
+Welcome to my GitHub profile! I'm a passionate computer science student with a strong foundation in software development, numerical methods, and database systems. I love building practical applications that solve real-world problems.
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on enhancing my problem-solving skills through DSA in C.
-- 🌱 I’m exploring technologies like OpenCV and Beautiful Soup.
-- 💬 Ask me about Python, C, C++, HTML, CSS, JavaScript.
-- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/akhil-semwal-882546286)
+### 🔢 [Computer Oriented Numerical Methods](https://github.com/SemwalAkhil/Projects/tree/main/CNM/CNM%20Site)
+**A comprehensive collection of 25 numerical algorithms implemented in C++**
 
----
+- **Tech Stack**: C++, HTML5, CSS3, JavaScript, Highlight.js
+- **Features**: Interactive web interface, syntax highlighting, one-click compilation
+- **Highlights**: Root finding methods, interpolation, numerical integration, differential equations
+- **Live Demo**: [View Interactive Site](https://computer-oriented-numerical-methods.vercel.app/)
 
-## 🧰 Languages and Tools
+*Implemented fundamental algorithms including Bisection Method, Newton-Raphson, Runge-Kutta, and Chebyshev Polynomials with a responsive web interface for easy exploration.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?style=flat&logo=beautifulsoup&logoColor=black)
+### 📝 [Your To Do - Task Management App](https://github.com/SemwalAkhil/Projects/tree/main/FWPproject)
+**A lightweight, browser-based task management application**
 
----
+- **Tech Stack**: Vanilla JavaScript, HTML5, CSS3, LocalStorage API
+- **Features**: User accounts, deadline tracking, responsive design, profile management
+- **Highlights**: Visual deadline indicators, task persistence, mobile-friendly interface
+- **Course**: Fundamentals of Web Programming
 
-## 📈 GitHub Stats
+*Built a complete task management system with user authentication and deadline tracking, focusing on clean code and intuitive user experience.*
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemwalAkhil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemwalAkhil&layout=compact&theme=radical)
+### 🗄️ [SQL Query Runner](https://github.com/SemwalAkhil/Projects/tree/main/dbmsProject)
+**Web-based database query execution platform**
 
----
+- **Tech Stack**: Python, FastAPI, MySQL, Oracle DB, Docker, Google Cloud Run
+- **Features**: Dual database support, syntax highlighting, query execution, database operations
+- **Highlights**: Cloud deployment, containerization, organized SQL script library
+- **Architecture**: RESTful API with responsive frontend
 
-## 📫 Connect with Me
+*Developed a full-stack application for executing SQL queries with support for multiple database engines and cloud deployment capabilities.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akhil-semwal-882546286)
+## 🛠️ Technical Skills
 
----
+**Programming Languages**
+- C++ (Advanced) - Numerical algorithms, data structures
+- Python (Intermediate) - Web APIs, database integration
+- JavaScript (Intermediate) - Frontend development, DOM manipulation
+- SQL (Intermediate) - Database queries, schema design
 
-> "Experimenting with Python, C, C++, HTML, CSS, JS. Love exploring new tech like OpenCV & Beautiful Soup. Focused on DSA in C. Writing efficient, minimal code."
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🎯 Current Focus
+
+- 🔍 Exploring advanced algorithms and data structures
+- 🌐 Building full-stack web applications
+- 📱 Learning modern frontend frameworks
+- ☁️ Expanding cloud computing knowledge
+
+## 📫 Let's Connect!
+
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/akhil-semwal-882546286/)
+- 🌐 **Portfolio**: [View my work](https://github.com/SemwalAkhil/Projects)
+
+## 🏆 Academic Information
+
+**Current**: BCA Student at Post Graduate Government College-11  
