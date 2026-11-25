@@ -20,7 +20,7 @@ I enjoy understanding how things work under the hood—from algorithms and datab
 
 ## About me
 
-- 🎓 First-year **MCA student at VIT Vellore**.
+- 🎓 First-year **MCA student at NIT Trichy**.
 - 💻 Interested in backend engineering, databases, systems programming, and applied software architecture.
 - 🧩 Strengthening problem-solving through data structures, algorithms, and competitive programming.
 - 🛠️ I like building end-to-end projects: from data ingestion and persistence to APIs, interfaces, testing, and deployment.
