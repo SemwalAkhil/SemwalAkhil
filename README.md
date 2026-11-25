@@ -1,64 +1,111 @@
-# Hi there! 👋 I'm Akhil Semwal
+<!--
+  GitHub profile README
+  Keep featured projects aligned with the repositories' actual status and capabilities.
+-->
 
-Welcome to my GitHub profile! I'm a passionate computer science student with a strong foundation in software development, numerical methods, and database systems. I love building practical applications that solve real-world problems.
+<div align="center">
 
-## 🚀 Featured Projects
+# Hi, I'm Akhil Semwal 👋
 
-### 🔢 [Computer Oriented Numerical Methods](https://github.com/SemwalAkhil/Projects/tree/main/CNM/CNM%20Site)
-**A comprehensive collection of 25 numerical algorithms implemented in C++**
+**MCA Student · Software Developer · Problem Solver**
 
-- **Tech Stack**: C++, HTML5, CSS3, JavaScript, Highlight.js
-- **Features**: Interactive web interface, syntax highlighting, one-click compilation
-- **Highlights**: Root finding methods, interpolation, numerical integration, differential equations
-- **Live Demo**: [View Interactive Site](https://computer-oriented-numerical-methods.vercel.app/)
+I build practical software across backend systems, data-driven applications, and developer-focused tools.  
+I enjoy understanding how things work under the hood—from algorithms and databases to operating systems and cloud deployment.
 
-*Implemented fundamental algorithms including Bisection Method, Newton-Raphson, Runge-Kutta, and Chebyshev Polynomials with a responsive web interface for easy exploration.*
+[GitHub](https://github.com/SemwalAkhil) · [LinkedIn](https://www.linkedin.com/in/akhil-semwal-882546286/)
 
-### 📝 [Your To Do - Task Management App](https://github.com/SemwalAkhil/Projects/tree/main/FWPproject)
-**A lightweight, browser-based task management application**
+</div>
 
-- **Tech Stack**: Vanilla JavaScript, HTML5, CSS3, LocalStorage API
-- **Features**: User accounts, deadline tracking, responsive design, profile management
-- **Highlights**: Visual deadline indicators, task persistence, mobile-friendly interface
-- **Course**: Fundamentals of Web Programming
+---
 
-*Built a complete task management system with user authentication and deadline tracking, focusing on clean code and intuitive user experience.*
+## About me
 
-### 🗄️ [SQL Query Runner](https://github.com/SemwalAkhil/Projects/tree/main/dbmsProject)
-**Web-based database query execution platform**
+- 🎓 First-year **MCA student at VIT Vellore**.
+- 💻 Interested in backend engineering, databases, systems programming, and applied software architecture.
+- 🧩 Strengthening problem-solving through data structures, algorithms, and competitive programming.
+- 🛠️ I like building end-to-end projects: from data ingestion and persistence to APIs, interfaces, testing, and deployment.
 
-- **Tech Stack**: Python, FastAPI, MySQL, Oracle DB, Docker, Google Cloud Run
-- **Features**: Dual database support, syntax highlighting, query execution, database operations
-- **Highlights**: Cloud deployment, containerization, organized SQL script library
-- **Architecture**: RESTful API with responsive frontend
+## Featured projects
 
-*Developed a full-stack application for executing SQL queries with support for multiple database engines and cloud deployment capabilities.*
+### 🌿 [Herbal Almanac](https://github.com/SemwalAkhil/NITT-PSP-Project)
+A Python research library, CLI, and local web application for exploring Ayurvedic herbs and their documented properties.
 
-## 🛠️ Technical Skills
+- Ingests monograph data from the CCRAS DRAVYA portal.
+- Uses SQLite, structured source provenance, claim lifecycle tracking, and a normalized Dravyaguna concept model.
+- Offers a Typer CLI and FastAPI web interface, with multilingual glossary and search capabilities.
+- Built with an emphasis on preserving source text, traceability, and distinguishing extracted evidence from interpretation.
 
-**Programming Languages**
-- C++ (Advanced) - Numerical algorithms, data structures
-- Python (Intermediate) - Web APIs, database integration
-- JavaScript (Intermediate) - Frontend development, DOM manipulation
-- SQL (Intermediate) - Database queries, schema design
+**Stack:** Python · FastAPI · SQLite · BeautifulSoup · Typer · pytest
 
-## 📊 GitHub Stats
+### 🖥️ [System Performance Visualizer & CPU Scheduler Simulator](https://github.com/SemwalAkhil/system-performance-visualizer)
+A systems-oriented project combining a C++ monitoring engine with a Python API and browser dashboard.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SemwalAkhil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemwalAkhil&layout=compact&theme=radical)
+- Reads CPU and memory statistics from the Linux `/proc` filesystem.
+- Exposes system metrics through a FastAPI REST backend.
+- Visualizes resource usage and FCFS CPU scheduling.
+- Deployed on AWS EC2.
 
-## 🎯 Current Focus
+**Stack:** C++ · Python · FastAPI · Linux · REST APIs · HTML · CSS · JavaScript · Chart.js · AWS EC2
 
-- 🔍 Exploring advanced algorithms and data structures
-- 🌐 Building full-stack web applications
-- 📱 Learning modern frontend frameworks
-- ☁️ Expanding cloud computing knowledge
+### 🧪 [TeamLiquid Buildathon](https://github.com/SemwalAkhil/TeamLiquid-Buildathon)
+A collaborative buildathon project. Explore the repository for the implementation and project details.
 
-## 📫 Let's Connect!
+### 📚 [Java Project Codes](https://github.com/SemwalAkhil/JavaProjectCodes)
+Topic-wise Core Java practice solutions covering object-oriented programming, inheritance, interfaces, exceptions, collections-related fundamentals, multithreading, files, JDBC, and GUI programming.
 
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/akhil-semwal-882546286/)
-- 🌐 **Portfolio**: [View my work](https://github.com/SemwalAkhil/Projects)
+### ⚙️ [Competitive Programming](https://github.com/SemwalAkhil/competitive-programming)
+A growing collection of solutions and practice work focused on algorithms, data structures, and efficient problem solving.
 
-## 🏆 Academic Information
+---
 
-**Current**: BCA Student at Post Graduate Government College-11  
+## Tech I work with
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+**Areas:** Data Structures & Algorithms · Object-Oriented Programming · Database Design · REST APIs · Operating Systems · Cloud Deployment · Testing
+
+## What I'm focusing on
+
+- Deepening my understanding of data structures, algorithms, and problem-solving.
+- Building maintainable backend applications and working with relational data.
+- Exploring systems programming, Linux internals, and cloud infrastructure.
+- Improving software quality through testing, documentation, and thoughtful architecture.
+
+## GitHub activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemwalAkhil&show_icons=true&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemwalAkhil&layout=compact&hide_border=true)
+
+</div>
+
+## Connect
+
+- **LinkedIn:** [akhil-semwal-882546286](https://www.linkedin.com/in/akhil-semwal-882546286/)
+- **GitHub:** [@SemwalAkhil](https://github.com/SemwalAkhil)
+
+---
+
+<div align="center">
+
+*Learning by building. Improving one commit at a time.*
+
+</div>
